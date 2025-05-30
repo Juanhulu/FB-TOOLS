@@ -16,9 +16,9 @@
 ## 📌 Fitur Utama
 
 - ✅ Automasi tugas Facebook tertentu
-- 🔐 Sistem login dengan token / cookies
-- 📄 Ekstraksi data dari profil atau grup
-- 📦 Output data dalam format yang rapi
+- 🔐 Sistem login dengan cookies
+- 📄 Mengambil data halaman
+- 📦 Follow, Reaction, Comment & Share | Bisa sekaligus
 - ⚙️ Mudah dikonfigurasi dan dijalankan
 
 ---
