@@ -25,12 +25,23 @@
 
 ## ⚙️ Cara Install & Jalankan
 
-### 1. Clone repository
-
+### 1. Update Terminal
 ```bash
 apt update -y && apt upgrade -y
+```
+### 2. Install git & python3
+```bash
 apt install git python3
+```
+### 3. Clone repository
+```bash
 git clone https://github.com/juanhulu/FB-TOOLS.git
+```
+### 4. Change Directory
+```bash
 cd FB-TOOLS
+```
+### 5. Run
+```bash
 python3 main.py
 ```
