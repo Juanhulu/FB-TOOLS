@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/bash-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Author-Juan%20Hulu-orange?style=flat-square">
 </p>
