@@ -29,9 +29,9 @@
 ```bash
 apt update -y && apt upgrade -y
 ```
-### 2. Install git & python3
+### 2. Install git
 ```bash
-apt install git python3
+apt install git
 ```
 ### 3. Clone repository
 ```bash
@@ -41,7 +41,11 @@ git clone https://github.com/juanhulu/FB-TOOLS.git
 ```bash
 cd FB-TOOLS
 ```
-### 5. Run
+### 5. Ubah hak akses
 ```bash
-python3 main.py
+chmod +x main
+```
+### 6. Run
+```bash
+./main
 ```
